@@ -7,16 +7,15 @@ A notebook exploring convolutional neural networks for image-based learning task
 
 ## Topics
 - Image tensors and channel dimensions
-- Convolution and pooling operations
-- Feature extraction
-- Classification layers
+- Convolution and pooling
+- Feature extraction and classification layers
 - Training and evaluation workflow
 
 ## Run
-Open the notebook in Jupyter or Google Colab. Install PyTorch and the notebook dependencies, prepare any required dataset as described in the notebook, and execute the cells in order.
+Open in Jupyter or Google Colab. Install PyTorch and notebook dependencies, prepare data as described in the notebook, and execute cells in order.
 
 ## Scope
-Educational CNN implementation. The notebook is the source of truth for its dataset, model configuration and results.
+Educational CNN implementation. The notebook is the source of truth for dataset, model configuration and results.
 
 ## Author
 Ali Hassan Abbas | [GitHub](https://github.com/AliHassanAbbas)
